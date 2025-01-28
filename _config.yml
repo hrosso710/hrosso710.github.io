@@ -21,7 +21,7 @@ repository               : "hrosso710/hrosso710.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture of myself.jpg"
+  avatar           : "picture-of-myself.jpg"
   name             : "Haley Rosso"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Emory University"
