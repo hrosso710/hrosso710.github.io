@@ -21,7 +21,7 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: file:///C:/Users/19369/Downloads/CV_Updated%20(2).pdf
     
   - title: "Guide"
     url: /markdown/
