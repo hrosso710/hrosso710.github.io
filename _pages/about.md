@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in computational mathematics at Emory University. I work with Talea Mayo and Lars Ruthotto. My research interests include uncertainty quantification, data assimilation, surge modeling, and generative modeling.
+I am a fourth-year Ph.D. student in computational mathematics at Emory University. I work with Talea Mayo and Lars Ruthotto. My research interests include uncertainty quantification, data assimilation, surge modeling, and deep learning.
