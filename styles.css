@@ -26,11 +26,11 @@ and then link it! Many fonts have separate files for each style
 
 */
 
-  @font-face {
-  font-family: 'Pixel';
-  src: url('rainyhearts.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+    @font-face {
+        font-family: 'Pixel';
+        src: url('rainyhearts.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
             }
 
     @font-face {
